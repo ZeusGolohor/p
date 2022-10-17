@@ -1,4 +1,4 @@
-#include <unistd.h>
+#include "main.h"
 
 /**
   * _write_char - write character c to the standard output
